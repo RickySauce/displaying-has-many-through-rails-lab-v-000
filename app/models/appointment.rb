@@ -4,4 +4,5 @@ class Appointment < ActiveRecord::Base
 
   def appointment_datetime
   end
+  
 end
